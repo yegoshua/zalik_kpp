@@ -1,0 +1,7 @@
+{
+  "name": "zalik_slobodyanik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
